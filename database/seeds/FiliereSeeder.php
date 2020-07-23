@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Seeder;
 
-class Filiere extends Seeder
+class FiliereSeeder extends Seeder
 {
     /**
      * Run the database seeds.
